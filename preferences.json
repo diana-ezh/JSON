@@ -1,7 +1,7 @@
 {
-    "favourite_movie": "Interstellar",
-    "favourite_TVshow": "Friends",
-    "favourite_food": "eggs",
-    "favourite_season": "Summer",
-    "country_to_visit": "Icelend"
+    'favourite_movie': 'Interstellar',
+    'favourite_TVshow': 'Friends',
+    'favourite_food': 'eggs',
+    'favourite_season': 'Summer',
+    'country_to_visit': 'Iceland'
 }
