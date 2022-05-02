@@ -1,10 +1,12 @@
-Summery: Entering numbers >=990 an error 500 appears in the console
-
-Steps to reproduce: 
-1. open site Factoriall 
-2. open DevTools/Console
-3. enter numbers >=990 in the input field
-4. click the button ”calculate!”
-
-actual result: massage “The factorial of 990 is: Infinity” appears on the page. Error 500 (INTERNAL SERVER ERROR) appears in the console.
-expected result:   massage “The factorial of 990 is: Infinity” appears on the page. Massage “Hello! I am in the done part of the ajax call” {answer: Infinity} appears in the console.
+{
+  'Summery': 'Entering numbers >=990 an error 500 appears in the console'
+  { 
+   'Steps to reproduce': 
+   '1. open the site http://qainterview.pythonanywhere.com/ 
+   '2. open DevTools/Console'
+   '3. enter numbers >=990 in the input field'
+   '4. click the button "calculate!"'
+}
+'actual result': 'massage “The factorial of 990 is: Infinity” appears on the page. Error 500 (INTERNAL SERVER ERROR) appears in the console.'
+'expected result': 'massage “The factorial of 990 is: Infinity” appears on the page. Massage “Hello! I am in the done part of the ajax call” {answer: Infinity} appears in the console.'
+}
